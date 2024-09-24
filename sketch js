@@ -1,0 +1,7 @@
+fu  createCanvas(400, 400);
+nction setup() {
+}
+
+function draw() {
+  background(220);
+}
